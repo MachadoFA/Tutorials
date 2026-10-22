@@ -216,3 +216,7 @@ fitContinuous(bats_tree, forearm, model = "OU", SE = NA)
 ```
 
 Refit all three models with `SE = NA`, for both bats and primates. Does the best model change?
+
+---
+
+**Solutions:** once you have tried the exercises, compare your answers with the [solutions page](SOLUTIONS.md).
